@@ -1,0 +1,2 @@
+GET http://localhost:3000/posts?page=1&limit=2
+// limit is like how many users you want on particular page
